@@ -3,7 +3,7 @@
 A powerful Chrome extension for professional Kurdish language translation (Sorani and Kurmanji dialects) and 10 major world languages.
 
 [![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-blue?logo=google-chrome)](https://chromewebstore.google.com/detail/ziman-ai-kurdish-translat/cjmmnobnimheoeeojobgfkgbdbohcjkn)
-[![Open Source](https://img.shields.io/badge/Open-Source-green?logo=github)](https://github.com/naserhha/ziman-ai-extension)
+[![Open Source](https://img.shields.io/badge/Open-Source-green?logo=github)](https://github.com/hashemabad/ziman-ai-extension)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## 🌍 Ziman AI - ابزار ترجمه کردی و چندزبانه
@@ -36,10 +36,10 @@ Ekstensiyoneke Chrome ya pêşketî ji bo wergera profesyonel a zimanê kurdî (
 
 ### 🔗 ارتباط با توسعه‌دهنده
 - **وب‌سایت**: [mohammadnasser.com](https://mohammadnasser.com) ↗
-- **X (توییتر)**: [@naserhha](https://x.com/naserhha)
-- **لینکدین**: [naserhha](https://linkedin.com/in/naserhha)
-- **گیت‌هاب**: [naserhha](https://github.com/naserhha)
-- **تلگرام**: [@naserhha](https://t.me/naserhha)
+- **X (توییتر)**: [@hashemabad](https://x.com/hashemabad)
+- **لینکدین**: [hashemabad](https://linkedin.com/in/hashemabad)
+- **گیت‌هاب**: [hashemabad](https://github.com/hashemabad)
+- **تلگرام**: [@hashemabad](https://t.me/hashemabad)
 - **وردپرس**: [mohammadnasser.com](https://mohammadnasser.com)
 
 ## 🌟 Key Features
@@ -124,7 +124,7 @@ Ekstensiyoneke Chrome ya pêşketî ji bo wergera profesyonel a zimanê kurdî (
 
 ### 1. Download & Extract
 ```bash
-git clone https://github.com/naserhha/ziman-ai-extension.git
+git clone https://github.com/hashemabad/ziman-ai-extension.git
 cd ziman-ai-extension
 ```
 
@@ -164,7 +164,7 @@ To use all AI chatbots and get unlimited translations:
 
 ### ۱. دانلود و استخراج
 ```bash
-git clone https://github.com/naserhha/ziman-ai-extension.git
+git clone https://github.com/hashemabad/ziman-ai-extension.git
 cd ziman-ai-extension
 ```
 
@@ -204,7 +204,7 @@ cd ziman-ai-extension
 
 ### ١. التحميل والاستخراج
 ```bash
-git clone https://github.com/naserhha/ziman-ai-extension.git
+git clone https://github.com/hashemabad/ziman-ai-extension.git
 cd ziman-ai-extension
 ```
 
@@ -244,7 +244,7 @@ cd ziman-ai-extension
 
 ### 1. İndirme ve Çıkarma
 ```bash
-git clone https://github.com/naserhha/ziman-ai-extension.git
+git clone https://github.com/hashemabad/ziman-ai-extension.git
 cd ziman-ai-extension
 ```
 
@@ -284,7 +284,7 @@ Tüm yapay zeka sohbet botlarını kullanmak ve sınırsız çeviri yapmak için
 
 ### ١. داگرتن و دەرکردن
 ```bash
-git clone https://github.com/naserhha/ziman-ai-extension.git
+git clone https://github.com/hashemabad/ziman-ai-extension.git
 cd ziman-ai-extension
 ```
 
@@ -324,7 +324,7 @@ cd ziman-ai-extension
 
 ### 1. Daxistin û Derxistin
 ```bash
-git clone https://github.com/naserhha/ziman-ai-extension.git
+git clone https://github.com/hashemabad/ziman-ai-extension.git
 cd ziman-ai-extension
 ```
 
@@ -630,8 +630,8 @@ class CustomTranslationAPI extends WeblateAPI {
 ## 📞 پشتیبانی
 
 - **ایمیل**: info@mohammadnasser.com
-- **گیت‌هاب**: [Issues](https://github.com/naserhha/ziman-ai-extension/issues)
-- **مستندات**: [Wiki](https://github.com/naserhha/ziman-ai-extension/wiki)
+- **گیت‌هاب**: [Issues](https://github.com/hashemabad/ziman-ai-extension/issues)
+- **مستندات**: [Wiki](https://github.com/hashemabad/ziman-ai-extension/wiki)
 
 ## 🙏 Acknowledgments
 
